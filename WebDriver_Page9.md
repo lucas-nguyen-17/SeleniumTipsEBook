@@ -30,7 +30,7 @@ $$("div[data-tl-id='header-GlobalHeaderLeftNav'] span[class='g_a g_h']")
 *For more info on chrome console. Refer this: https://developers.google.com/web/tools/chrome-devtools/console/*
 
 
-- Tip 18:  In a few odd cases, you have may have to inject Javascript into the webdriver if the traditional click or sendkeys methods of Webdriver does not work. Here are few code snippets to inject.
+- **Tip 18:**  In a few odd cases, you have may have to inject Javascript into the webdriver if the traditional click or sendkeys methods of Webdriver does not work. Here are few code snippets to inject.
 
 ```java
 Click action using javascript:
