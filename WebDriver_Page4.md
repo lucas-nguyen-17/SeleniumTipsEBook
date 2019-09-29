@@ -1,5 +1,4 @@
-## Webdriver tips on Design Pattern
-
+### Webdriver tips on Design Pattern
 
 - Tip 7: Let’s say you have a list of Web elements and you wish to transform the text content of each web element in upper case. 
 ```java
