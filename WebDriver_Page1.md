@@ -1,4 +1,4 @@
-# Selenium Webdriver Tips 1-2
+## Using Streams
 
 - Tip 1:  if you have a list of web elements where in you want to pick only the elements whose title attribute starts with ‘O’ .  You can probably achieve this via the traditional way of looping each  web-element but with Java 8 streams you can solve it in a clean & simple way.
 
