@@ -1,7 +1,7 @@
 # SeleniumWebdriver e-Book 
 
 ## Preface
-- The following pointers/tricks are written based on my experience with Java+Selenium web driver. And few pointers I learnt from reading Selenium Web driver books. I have applied these tips successfully in my job.
+- The following pointers/tricks are written based on my experience with Java+Selenium web driver. Few pointers I learnt from reading Selenium Web driver books. I have applied these tips successfully in my job.
 
 - This document helps any SDET(Software Developer Engineer Test) who is experienced in writing test code with Se-Webdriver.
 - The below tips are written in Java so I expect that readers knows Core Java.
