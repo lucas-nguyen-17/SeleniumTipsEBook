@@ -12,7 +12,7 @@ StringBuffer,StringBuilder,String class implements CharSequence class.
 For example,
 public void typeKeys() {		
 	StringBuilder sBuilder = new StringBuilder();
-		sBuilder.append("Alice").append("**").append("in").append("**").append('\'').append("wonderland");		
+	sBuilder.append("Alice").append("**").append("in").append("**").append('\'').append("wonderland");		
 	driver.findElement(elementlocator).sendKeys(sBuilder);		
 }
 
